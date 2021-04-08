@@ -3,4 +3,4 @@
 ## Technologies
 
 -   Node.js
--   React.js
+-   Handlebars.js
